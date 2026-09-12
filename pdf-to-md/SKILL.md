@@ -1,12 +1,8 @@
 ---
 name: pdf-to-md
 description: '将 PDF 课件或教材转换为同名的 Markdown 文件。触发条件：用户提供或当前工作目录下存在一个 PDF 文件，要求将其内容完整改写为 Markdown，包含所有文本、公式和图表信息。'
-version: "1.0.0"
-license: MIT
 metadata:
   argument-hint: '<pdf-file-path>'
-  allowed-tools: ['Shell', 'read_image', 'agnes_artifacts__present_artifacts']
-  context: fork
 ---
 
 # PDF 课件/教材 → Markdown 转换器
