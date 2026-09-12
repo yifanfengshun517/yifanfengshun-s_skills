@@ -43,6 +43,3 @@ yifanfengshun-s_skills/
   - `description`: 触发条件描述，用于自动发现
   - `metadata.argument-hint`: 参数提示
 
-## 贡献
-
-欢迎提交 Issue 和 Pull Request。
